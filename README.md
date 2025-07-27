@@ -8,4 +8,3 @@ Bu proje, modern teknolojileri kullanarak **harika bir fikir** üzerine inşa ed
 - ⚡ Yüksek performans  
 - 🔧 Kolay kurulum  
 - 🧠 Akıllı algoritmalar  
-- 📦 Hafif ve taşınabilir
